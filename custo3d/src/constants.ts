@@ -1,0 +1,18 @@
+export const COLOR_PRESETS: { name: string; hex: string }[] = [
+  { name: 'Preto', hex: '#1B1B1F' },
+  { name: 'Branco', hex: '#F4F4F2' },
+  { name: 'Cinzento', hex: '#8C9096' },
+  { name: 'Vermelho', hex: '#E5484D' },
+  { name: 'Laranja', hex: '#F5802A' },
+  { name: 'Amarelo', hex: '#F6C62B' },
+  { name: 'Verde', hex: '#3FB56B' },
+  { name: 'Verde-lima', hex: '#A6D93A' },
+  { name: 'Azul', hex: '#3B82F6' },
+  { name: 'Azul-claro', hex: '#5CC8F2' },
+  { name: 'Roxo', hex: '#8B5CF6' },
+  { name: 'Rosa', hex: '#F472B6' },
+  { name: 'Castanho', hex: '#8A5A3C' },
+  { name: 'Bege', hex: '#D9C3A0' },
+  { name: 'Dourado', hex: '#D4AF37' },
+  { name: 'Transparente', hex: '#CFE8F0' },
+];

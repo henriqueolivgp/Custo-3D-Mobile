@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Custo 3D",
+    "slug": "custo3d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F141B",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "backgroundColor": "#0F141B",
+      "package": "com.henrygp.custo3d"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1960523c-b448-4b82-aa02-88952369e10e"
+      }
+    }
+  }
+}
